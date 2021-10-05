@@ -1,0 +1,58 @@
+body {
+    background: #f7f7f7;
+}
+
+
+#titulo, .subtitulo, .post1 {
+    color: #fff;
+    padding:20px;
+}
+
+#titulo {
+    background:#fff;
+    background-image: url("css-background-image-linear-gradient.png");
+    border: 3px solid #000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.subtitulo {
+    font-style: italic;
+}
+
+.subtitu {
+    background:#fff;
+    background-image: url("css-background-image-linear-gradient.png");
+    padding-top: 0;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.fontes {
+    background: #fff;
+    background-image: url("css-background-image-linear-gradient.png");
+    padding: 5px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.conteudo_post {
+    margin: 20px;
+    border: 5px;
+    border-radius: 5px;
+}
+
+.imagem2 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.imagem1 {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
